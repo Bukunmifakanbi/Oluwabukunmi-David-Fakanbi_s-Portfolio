@@ -1,2 +1,2 @@
-# Data-Science-Portfolio
-This repository contains my journey as a data scientist; my skills and projects I have worked on.
+# My-Portfolio-As-An-Actuary-Data-Scientist-Statistican-and-Person!
+A portfolio of some of my analytics interest showcasing my understanding and depth as a Statistician, Data scientist and more Actuary
