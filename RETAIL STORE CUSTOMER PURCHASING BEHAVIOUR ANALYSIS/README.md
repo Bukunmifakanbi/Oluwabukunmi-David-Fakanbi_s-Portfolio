@@ -62,9 +62,8 @@ Avg Spend per Transaction = AVERAGE(Total_Amount)
 Age Grouping and Purchasing Behaviour classification via SWITCH() logic
 
 ## 📈 Dashboard Summary
-<img src="./images/1. Main Dashboard.png" width="900">
+<img src="./Dashboard Images/1. Main Dashboard.png" width="900">
 
-### 🧾 Key Metrics
 ### 🧾 Key Metrics
 | KPI	| Value |
 |-------------|--------------------|
@@ -78,7 +77,7 @@ Age Grouping and Purchasing Behaviour classification via SWITCH() logic
 ---
 
 ## 🔍 Key Insights
-<img src="./images/5. Mature Adults Age Bracket.png" width="900">
+<img src="./Dashboard Images/5. Mature Adults Age Bracket.png" width="900">
 
 ### 🧠 Customer Demographics & Behaviour
 - **Mature Adults (45–54)** are the top revenue generators (**$97.2K**) — mostly purchasing **Beauty products ($36K)**, dominated by **male buyers (51.84%)**.  
@@ -87,7 +86,7 @@ Age Grouping and Purchasing Behaviour classification via SWITCH() logic
 - **Senior Adults (55+)** maintain a near-equal gender balance (**50.21% female**) and show higher interest in **Electronics**.  
 
 ### 💰 Product & Category Performance
-<img src="./images/7. Electronics Category.png" width="900">
+<img src="./Dashboard Images/7. Electronics Category.png" width="900">
 
 - **Electronics ($157K)** drives the highest revenue, closely followed by **Clothing ($156K)** and finally **Beauty ($144K)**
 - **Beauty ($467.5)** leads overall revenue on average, followed by **Electronics ($458.8)**, while **Clothing** records the highest quantity sold.  
@@ -95,7 +94,7 @@ Age Grouping and Purchasing Behaviour classification via SWITCH() logic
 - **Clothing** drives large-volume purchases, while **Beauty** drives higher profit margins.  
 
 ### 🛒 Purchasing Patterns
-<img src="./images/12. Moderate Item Basket Purchase.png" width="900">
+<img src="./Dashboard Images/12. Moderate Item Basket Purchase.png" width="900">
 
 - The **Moderate Basket (3–4 items)** dominates, with **504 transactions**, contributing the largest revenue share.  
 - Customers buying fewer items (1–2) present upselling opportunities.  
@@ -107,7 +106,7 @@ Age Grouping and Purchasing Behaviour classification via SWITCH() logic
 - **Low-performing months:** **March and September**, where Electronics decline and Clothing/Beauty perform moderately.  
 
 ### 👥 Gender Influence
-<img src="./images/11. Female DB.png" width="900">
+<img src="./Dashboard Images/11. Female DB.png" width="900">
 
 - **Females contribute 51.06%** of total revenue, especially strong in **Clothing**.  
 - **Males** are prominent in **Electronics** and **Beauty**, showing a balanced category interest.  
