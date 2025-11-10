@@ -192,4 +192,4 @@ Contact:
 📧 [Bukunmifakanbi@gmail.com]  
 🔗 <a href="www.linkedin.com/in/oluwabukunmi-fakanbi-37b435227">LinkedIn </a>
 
-<img scr="https://i.pinimg.com/1200x/2b/c7/4b/2bc74bf574d98cdfd6fbd8b089a1184a.jpg" />
+![Thank You](https://i.pinimg.com/1200x/2b/c7/4b/2bc74bf574d98cdfd6fbd8b089a1184a.jpg)
