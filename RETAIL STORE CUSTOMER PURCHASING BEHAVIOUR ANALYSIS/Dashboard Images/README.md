@@ -26,7 +26,7 @@ Which customer segments contribute most to the company’s revenue?
 ---
 
 ## 📂 Dataset Description
-- **Source:** Retail Sales Dataset - Kaggle (https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
+- **Source:** Retail Sales Dataset - <a href="https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset"> Kaggle </a>
 
 - **Key Columns:**  
   - `CustomerID`  
@@ -62,18 +62,23 @@ Avg Spend per Transaction = AVERAGE(Total_Amount)
 Age Grouping and Purchasing Behaviour classification via SWITCH() logic
 
 ## 📈 Dashboard Summary
+<img src="./1. Main Dashboard.png" width="900">
+
 ### 🧾 Key Metrics
-KPI	Value
-Total Revenue	$456K
-Total Quantity Sold	2,514 units
-Top Revenue Category	Electronics ($156.9K)
-Top Quantity Sold Category	Clothing (894 units)
-Peak Sales Month	May
-Gender Split	Female (51.06%), Male (48.94%)
+### 🧾 Key Metrics
+| KPI	| Value |
+|-------------|--------------------|
+| Total Revenue	| $456K |
+| Total Quantity Sold	| 2,514 ~ 3k units |
+| Top Revenue Category	| Electronics ($156.9K ~ $157K) |
+| Top Quantity Sold Category	| Clothing (894 units) |
+| Peak Sales Month	| May |
+| Gender Split	| Female (51.06%), Male (48.94%) |
 
 ---
 
 ## 🔍 Key Insights
+<img src="./5. Mature Adults Age Bracket.png" width="900">
 
 ### 🧠 Customer Demographics & Behaviour
 - **Mature Adults (45–54)** are the top revenue generators (**$97.2K**) — mostly purchasing **Beauty products ($36K)**, dominated by **male buyers (51.84%)**.  
@@ -82,11 +87,16 @@ Gender Split	Female (51.06%), Male (48.94%)
 - **Senior Adults (55+)** maintain a near-equal gender balance (**50.21% female**) and show higher interest in **Electronics**.  
 
 ### 💰 Product & Category Performance
-- **Beauty ($467.5K)** leads overall revenue, followed by **Electronics ($458.8K)**, while **Clothing** records the highest quantity sold.  
+<img src="./7. Electronics Category.png" width="900">
+
+- **Electronics ($157K)** drives the highest revenue, closely followed by **Clothing ($156K)** and finally **Beauty ($144K)**
+- **Beauty ($467.5)** leads overall revenue on average, followed by **Electronics ($458.8)**, while **Clothing** records the highest quantity sold.  
 - **Male customers** contribute notably to **Beauty** and **Electronics**.  
 - **Clothing** drives large-volume purchases, while **Beauty** drives higher profit margins.  
 
 ### 🛒 Purchasing Patterns
+<img src="./12. Moderate Item Basket Purchase.png" width="900">
+
 - The **Moderate Basket (3–4 items)** dominates, with **504 transactions**, contributing the largest revenue share.  
 - Customers buying fewer items (1–2) present upselling opportunities.  
 
@@ -97,6 +107,8 @@ Gender Split	Female (51.06%), Male (48.94%)
 - **Low-performing months:** **March and September**, where Electronics decline and Clothing/Beauty perform moderately.  
 
 ### 👥 Gender Influence
+<img src="./11. Female DB.png" width="900">
+
 - **Females contribute 51.06%** of total revenue, especially strong in **Clothing**.  
 - **Males** are prominent in **Electronics** and **Beauty**, showing a balanced category interest.  
 
@@ -109,10 +121,9 @@ Gender Split	Female (51.06%), Male (48.94%)
 - **Customers aged 25–54** are the most consistent repeat buyers.  
 - **Moderate-basket customers** correlate with higher repeat purchase likelihood.  
 
-### 💹 Pricing & Future Analytics
-- Pricing variations exist across categories, but **no price distribution visual** yet in the dashboard — suggesting room for margin optimization.  
 
 ---
+
 
 ## 💡 Recommendations & Actionable Steps
 
@@ -155,11 +166,6 @@ Gender Split	Female (51.06%), Male (48.94%)
 - Send **personalized thank-you emails** and **win-back campaigns** after inactivity.  
 - Implement **points-based loyalty programs** and **exclusive VIP sales** for repeat customers.  
 
-### 💹 Pricing & Future Analytics
-- Add a **price vs. quantity scatterplot or boxplot** to study price sensitivity and profit margins.  
-- Perform **A/B testing** to identify optimal discount ranges without eroding profits.  
-- Evaluate **category-level price elasticity** to refine future pricing strategies.  
-
 ---
 
 ## 🚀 Expected Business Impact
@@ -177,3 +183,13 @@ Gender Split	Female (51.06%), Male (48.94%)
 ### 🏁 Summary
 The analysis reveals that **age, gender, and seasonality strongly influence purchasing behavior**.  
 By combining **targeted marketing**, **strategic pricing**, and **retention initiatives**, the retail business can improve profitability, increase repeat purchases, and maintain steady year-round growth.
+
+
+### 📬 Author
+**Oluwabukunmi Fakanbi**
+
+Contact:
+📧 [Bukunmifakanbi@gmail.com]  
+🔗 <a href="www.linkedin.com/in/oluwabukunmi-fakanbi-37b435227">LinkedIn </a>
+
+<img scr="https://i.pinimg.com/1200x/2b/c7/4b/2bc74bf574d98cdfd6fbd8b089a1184a.jpg" />
